@@ -1,0 +1,6 @@
+2022-11-25 22:22:39.153 [info] Extension host agent started.
+2022-11-25 22:22:39.279 [info] [127.0.0.1][03400f2e][ManagementConnection] New connection established.
+2022-11-25 22:22:39.471 [info] [127.0.0.1][ea45fd28][ExtensionHostConnection] New connection established.
+2022-11-25 22:22:39.490 [info] [127.0.0.1][ea45fd28][ExtensionHostConnection] <541> Launched Extension Host Process.
+2022-11-25 22:25:21.387 [info] [127.0.0.1][03400f2e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-11-25 22:25:21.399 [info] [127.0.0.1][ea45fd28][ExtensionHostConnection] <541> Extension Host Process exited with code: 0, signal: null.
